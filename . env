@@ -4,8 +4,8 @@
 # AI Provider - Pick one (or use OpenRouter for access to all)
 # Uncomment the line you use — placeholder values must stay commented out
 # OPENAI_API_KEY=your-openai-api-key-here
-# OPE-api-key-here
-GEMINI_API_KEY=AIzaSyCl_PC-pQH9JQ7. Isay copy karle.
+
+GEMINI_API_KEY=AIzaSyCl_PC-pQH9JQ7 
 
 # MOONSHOT_API_KEY=your-kimi-api-key-here
 # MIMO_API_KEY=your-mimo-api-key-here
@@ -61,7 +61,8 @@ GEMINI_API_KEY=AIzaSyCl_PC-pQH9JQ7. Isay copy karle.
 
 # Optional OAuth loopback override; Desktop app credentials are required.
 # YOUTUBE_REDIRECT_URI=http://127.0.0.1
-
+YOUTUBE_CLIENT_ID=383787879341-7fv45tus1cgg9br2s3rbhvngpuh3qnif.apps.googleusercontent.com
+YOUTUBE_CLIENT_SECRET=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
 # Azure Speech TTS (optional alternative)
 # AZURE_SPEECH_KEY=your-azure-speech-key-here
 # AZURE_SPEECH_REGION=eastus
