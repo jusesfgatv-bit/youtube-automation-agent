@@ -60,7 +60,7 @@ GEMINI_API_KEY=AIzaSyCl_PC-pQH9JQ7
 # DARKZSEO_TIMEOUT_MS=30000
 
 # Optional OAuth loopback override; Desktop app credentials are required.
-# YOUTUBE_REDIRECT_URI=http://127.0.0.1
+YOUTUBE_REDIRECT_URI=http://127.0.0.1
 YOUTUBE_CLIENT_ID=383787879341-7fv45tus1cgg9br2s3rbhvngpuh3qnif.apps.googleusercontent.com
 YOUTUBE_CLIENT_SECRET=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
 # Azure Speech TTS (optional alternative)
